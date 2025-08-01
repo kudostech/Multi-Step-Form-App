@@ -12,7 +12,7 @@ This demo showcases:
 
 ## 📸 Demo Preview
 
-![Step Progress Demo](https://imgur.com/a/ZIuTmSj) <!-- optional: add a demo GIF or screenshots -->
+![Step Progress Demo](https://i.imgur.com/DMnrGSV.png) <!-- optional: add a demo GIF or screenshots -->
 
 ---
 
@@ -47,17 +47,17 @@ App.jsx
 git clone https://github.com/your-username/multistep-form.git
 cd multi-step-form
 
-2. Install dependencies:
+### 2. Install dependencies:
 bash
 Copy code
 npm install
 
-3. Run the app locally:
+### 3. Run the app locally:
 bash
 Copy code
 npm start
 
- Why This Project?
+ ### Why This Project?
 This project demonstrates:
 
 ✅ Solid form architecture
@@ -69,7 +69,7 @@ This project demonstrates:
 ✅ Skill in frontend problem-solving
 
 
-👨‍💻 Ideal Use Cases:
+### 👨‍💻 Ideal Use Cases:
 
 🧑‍💼 Job portfolio
 
@@ -80,6 +80,6 @@ This project demonstrates:
 🛒 Signup wizards or checkout steps
 
 
-📬 Feedback?
+### 📬 Feedback?
 Feel free to reach out or fork this repo if you'd like to build on it further!
 
