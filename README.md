@@ -55,14 +55,10 @@ cd multi-step-form
 
 ```
 ### 2. Install dependencies:
-bash
-Copy code
 npm install
 
 ### 3. Run the app locally:
-bash
-Copy code
-npm start
+npm run dev
 
 ---
 
