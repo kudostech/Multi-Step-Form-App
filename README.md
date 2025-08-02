@@ -16,11 +16,18 @@ This demo showcases:
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view live](https://multi-step-form-app-kudostech.vercel.app/)
+
+---
+
 ## 🔧 Tech Stack
 
 - ⚛️ React (Functional components + Hooks)
 - 🎨 Tailwind CSS
 - 📦 React Context API for global form data sharing
+
 
 ---
 
